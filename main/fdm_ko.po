@@ -303,7 +303,7 @@ msgstr "미디어 스트림 병합합니다 (%1)."
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Deleting files."
-msgstr ""
+msgstr "지워진 파일."
 
 msgctxt "AppQuitConfirmationUiManager|"
 msgid "There are operations with no resume capability in progress"
